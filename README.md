@@ -1,2 +1,3 @@
 # DRiLLS-Stable-Baselines3
-Implement a customized Gym environment 'LogicSynEnv'
+1. Implement a customized Gym environment 'LogicSynEnv'
+2. Accelerate Drills by using Stable Baselines3
